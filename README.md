@@ -1,26 +1,26 @@
-# Mi Boy Color
+# Game Boy Color
 
 A browser handheld with a responsive device shell, on-device menus, keyboard controls, sound and playable games.
 
-**[Open live demo](https://mitchivindesign.github.io/miboy/) · [Explore in DoodleDev](https://doodledev.app/builds/#miboy)**
+**[Open live demo](https://mitchivindesign.github.io/game-boy-color/) · [Explore in DoodleDev](https://doodledev.app/builds/#game-boy-color)**
 
 Works on desktop and phone. Open the live demo and start playing.
 
-![Mi Boy Color running a game](assets/miboy-game-device-1920x1080.webp)
+![Game Boy Color running a game](assets/game-boy-color-game-device-1920x1080.webp)
 
 ## Features
 
 - **Playable games.** Load a game and play directly in the browser.
 - **Handheld controls.** Use the on-screen buttons or a keyboard.
-- **Device menus.** Adjust settings without leaving the Mi Boy Color screen.
+- **Device menus.** Adjust settings without leaving the Game Boy Color screen.
 - **Responsive shell.** The full device scales across desktop and phone layouts.
 - **Sound.** Play with in-game audio and device feedback.
 
-![Mi Boy Color menu](assets/miboy-menu-device-1920x1080.webp)
+![Game Boy Color menu](assets/game-boy-color-menu-device-1920x1080.webp)
 
 ## Get started
 
-1. Open the [Mi Boy Color live demo](https://mitchivindesign.github.io/miboy/).
+1. Open the [Game Boy Color live demo](https://mitchivindesign.github.io/game-boy-color/).
 2. Choose a game.
 3. Use the on-screen or keyboard controls to play.
 
@@ -36,6 +36,6 @@ This repository contains public product information. The application source is n
 
 Built by [Mitch Ivin](https://mitchivin.com/) in [DoodleDev](https://doodledev.app/).
 
-Mi Boy Color is an independent creative project and is not affiliated with Nintendo.
+Game Boy Color is an independent creative project and is not affiliated with Nintendo.
 
 Screenshots captured at 1920 × 1080.
