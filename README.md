@@ -30,6 +30,7 @@ This repository contains public product information. The application source is n
 
 - [DoodleDev](https://doodledev.app/)
 - [iPod Classic](https://github.com/mitchivin/ipod-classic)
+- [iPod Original](https://github.com/mitchivin/ipod-original)
 - [MitchIvin XP](https://mitchivin.com/)
 
 ## About
