@@ -29,7 +29,7 @@ This repository contains public product information. The application source is n
 ## Related
 
 - [DoodleDev](https://doodledev.app/)
-- [MiPod Classic](https://github.com/mitchivin/mipod)
+- [iPod Classic](https://github.com/mitchivin/ipod-classic)
 - [MitchIvin XP](https://mitchivin.com/)
 
 ## About
