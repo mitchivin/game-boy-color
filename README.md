@@ -2,7 +2,7 @@
 
 A browser handheld with a responsive device shell, on-device menus, keyboard controls, sound and playable games.
 
-**[Open live demo](https://mitchivindesign.github.io/game-boy-color/) · [Explore in DoodleDev](https://doodledev.app/builds/#game-boy-color)**
+**[Open live demo](https://mitchivin.github.io/game-boy-color/) · [Explore in DoodleDev](https://doodledev.app/builds/#game-boy-color)**
 
 Works on desktop and phone. Open the live demo and start playing.
 
@@ -20,7 +20,7 @@ Works on desktop and phone. Open the live demo and start playing.
 
 ## Get started
 
-1. Open the [Game Boy Color live demo](https://mitchivindesign.github.io/game-boy-color/).
+1. Open the [Game Boy Color live demo](https://mitchivin.github.io/game-boy-color/).
 2. Choose a game.
 3. Use the on-screen or keyboard controls to play.
 
