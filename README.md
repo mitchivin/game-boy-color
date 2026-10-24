@@ -6,7 +6,7 @@ A browser handheld with a responsive device shell, on-device menus, keyboard con
 
 Works on desktop and phone. Open the live demo and start playing.
 
-![Game Boy Color running a game](assets/game-boy-color-game-device-1920x1080.webp)
+![Game Boy Color boot screen](assets/game-boy-color-boot-device-1920x1080.webp)
 
 ## Features
 
@@ -16,7 +16,7 @@ Works on desktop and phone. Open the live demo and start playing.
 - **Responsive shell.** The full device scales across desktop and phone layouts.
 - **Sound.** Play with in-game audio and device feedback.
 
-![Game Boy Color menu](assets/game-boy-color-menu-device-1920x1080.webp)
+![Game Boy Color running a game](assets/game-boy-color-game-device-1920x1080.webp)
 
 ## Get started
 
